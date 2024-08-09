@@ -27,7 +27,7 @@ As a first step to becoming familiar with our web app's functioning, we recommen
 ```
 You should also be automatically directed to the base page of your web app. This should look something like:
 <div id="main image" align="center">
-  <img src="https://github.com/MoteneJan/JB1_2401FTDS/blob/main/pic.png" width="550" height="300" alt=""/>
+  <img src="https://github.com/MoteneJan/JB1_2041FTDS_STREAMLIT_APP/blob/main/1.png" width="550" height="300" alt=""/>
 </div>
 
 
