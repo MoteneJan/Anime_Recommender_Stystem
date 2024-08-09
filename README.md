@@ -26,6 +26,9 @@ As a first step to becoming familiar with our web app's functioning, we recommen
     Network URL: http://192.168.43.41:8501
 ```
 You should also be automatically directed to the base page of your web app. This should look something like:
+<div id="main image" align="center">
+  <img src="https://github.com/MoteneJan/JB1_2401FTDS/blob/main/pic.png" width="550" height="300" alt=""/>
+</div>
 
 
 #### 2 Deploying your Streamlit web app
