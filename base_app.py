@@ -123,7 +123,7 @@ st.markdown(
 
 # Load and prepare the dataset
 anime_df = pd.read_csv(r'cleaned_anime.csv')
-st.title("ANIMEORACLE")
+st.title("ANIMEFUSSION")
 st.write("Your Guide To Discovering Hidden Gems.")
 st.sidebar.title("Navigation")
 option = st.sidebar.selectbox("Choose a page", ["Information Page", "Project Overview", "Recommendation Page"])
