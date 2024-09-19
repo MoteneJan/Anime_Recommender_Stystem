@@ -1,4 +1,4 @@
-# ANIME RECOMMENDOR SYSTEM STREAMLIT
+# ANIME RECOMMENDER SYSTEM STREAMLIT
 
 #### 1 Running the Streamlit web app on your local machine
 
