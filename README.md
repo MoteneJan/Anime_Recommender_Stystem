@@ -1,4 +1,4 @@
-# JB1_2401FTDS_STREAMLIT
+# ANIME RECOMMENDOR SYSTEM STREAMLIT
 
 #### 1 Running the Streamlit web app on your local machine
 
